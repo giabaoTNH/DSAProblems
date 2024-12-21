@@ -1,3 +1,6 @@
+# Description
+- This is Meet in the middle (MITM, meet-in-the-middle) practice problems that you can do  
+
 # Resources
 - https://usaco.guide/gold/meet-in-the-middle?lang=cpp
 - https://mamnoonsiam.github.io/files/notes/interactive-problems/inprogress-0.pdf
